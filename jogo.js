@@ -1,7 +1,7 @@
 let button, quebraLinha, jogada = 1, vencedor = 0
-let tabuleiro = new Array(3)
+let tabuleiro = new Array(8)
 for(let i = 0; i < tabuleiro.length; i++){
-    tabuleiro[i] = new Array(3)
+    tabuleiro[i] = new Array(8)
 }
 for(let i = 0; i < tabuleiro.length; i++){
     quebraLinha = document.createElement('br')
