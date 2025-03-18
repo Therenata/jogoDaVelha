@@ -10,7 +10,7 @@ button{
 
 }
 button:hover{
-    background-color: rgb(26, 156, 156);
+    background-color: rgb(87, 4, 4);
 
 }
 .btJogo0, .btJogo1{
@@ -27,4 +27,16 @@ button:hover{
 button:disabled{
     border-color: black;
 }
-  
+body{
+    text-align: center;
+    background-color: rgb(48, 14, 31);
+
+}
+h2{
+    font-size: 40px;
+    color: aliceblue;
+}
+h1{
+    color: aliceblue;
+
+}
